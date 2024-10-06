@@ -1,3 +1,3 @@
 # flipkart-clone
-This is my first clone project
+This is my first clone project.
 Author - Beena das
